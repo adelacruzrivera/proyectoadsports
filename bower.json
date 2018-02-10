@@ -1,0 +1,17 @@
+{
+  "name": "adsports",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "jhordan <jhordanr250@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/adelacruzrivera/proyectoadsports",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
